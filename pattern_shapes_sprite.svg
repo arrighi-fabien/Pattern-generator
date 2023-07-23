@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <symbol id="svg-1" viewBox="0 0 100 100" fill="none">
+        <path d="M95 50C95 74.8528 74.8528 95 50 95C25.1472 95 5 74.8528 5 50C5 25.1472 25.1472 5 50 5C74.8528 5 95 25.1472 95 50Z" stroke="currentColor" stroke-width="10"/>
+    </symbol>
+    <symbol id="svg-2" viewBox="0 0 100 100" fill="none" opacity="1">
+        <path d="M100 50C100 77.6142 77.6142 100 50 100C22.3858 100 0 77.6142 0 50C0 22.3858 22.3858 0 50 0C77.6142 0 100 22.3858 100 50Z" fill="currentColor"/>
+    </symbol>
+    <symbol id="svg-3" viewBox="0 0 100 100" fill="none">
+        <line y1="5" x2="100" y2="5" stroke="currentColor" stroke-width="10"/>
+        <line y1="50" x2="100" y2="50" stroke="currentColor" stroke-width="10"/>
+        <line y1="95" x2="100" y2="95" stroke="currentColor" stroke-width="10"/>
+    </symbol>
+    <symbol id="svg-4" viewBox="0 0 100 100" fill="none">
+        <line x1="95" y1="0" x2="95" y2="100" stroke="currentColor" stroke-width="10"/>
+        <line x1="50" y1="0" x2="50" y2="100" stroke="currentColor" stroke-width="10"/>
+        <line x1="5" y1="0" x2="5" y2="100" stroke="currentColor" stroke-width="10"/>
+    </symbol>
+    <symbol id="svg-5" viewBox="0 0 100 100" fill="none">
+        <path d="M4 96.631L96.631 4" stroke="currentColor" stroke-width="10"/>
+    </symbol>
+    <symbol id="svg-6" viewBox="0 0 100 100" fill="none">
+        <path d="M4 4L96.631 96.631" stroke="currentColor" stroke-width="10"/>
+    </symbol>
+    <symbol id="svg-7" viewBox="0 0 100 100" fill="none">
+        <path d="M9 88L50 17L91 88H9Z" stroke="currentColor" stroke-width="10"/>
+    </symbol>
+    <symbol id="svg-8" viewBox="0 0 100 100" fill="none" opacity="1">
+        <path d="M0 7L100 7L50 93L0 7Z" fill="currentColor"/>
+    </symbol>
+    <symbol id="svg-9" viewBox="0 0 100 100" fill="none" opacity="1">
+        <path d="M0 93L100 93L50 7L0 93Z" fill="currentColor"/>
+    </symbol>
+    <symbol id="svg-10" viewBox="0 0 100 100" fill="none">
+        <path d="M5 5H95V95H5V5Z" stroke="currentColor" stroke-width="10"/>
+    </symbol>
+    <symbol id="svg-11" viewBox="0 0 100 100" fill="none" opacity="1">
+        <path d="M0 0H100V100H0V0Z" fill="currentColor"/>
+    </symbol>
+    <symbol id="svg-12" viewBox="0 0 100 100" fill="none">
+        <path d="M50 7.07107L92.929 50L50 92.929L7.07108 50L50 7.07107Z" stroke="currentColor" stroke-width="10"/>
+    </symbol>
+    <symbol id="svg-13" viewBox="0 0 100 100" fill="none" opacity="1">
+        <path d="M50 0L100 50L50 100L0 50L50 0Z" fill="currentColor"/>
+    </symbol>
+    <symbol id="svg-14" viewBox="0 0 100 100" fill="none">
+        <path d="M95.4642 96.3075L3.54029 4.38362M4.38362 96.3075L96.3075 4.38362" stroke="currentColor" stroke-width="10"/>
+    </symbol>
+    <symbol id="svg-15" viewBox="0 0 100 100" fill="none">
+        <path d="M0 50L100 50" stroke="currentColor" stroke-width="10"/>
+    </symbol>
+    <symbol id="svg-16" viewBox="0 0 100 100" fill="none">
+        <path d="M50 0L50 100" stroke="currentColor" stroke-width="10"/>
+    </symbol>
+    <symbol id="svg-17" viewBox="0 0 100 100" fill="none">
+        <path d="M93 50L7 100L7 0L93 50Z" fill="currentColor"/>
+    </symbol>
+    <symbol id="svg-18" viewBox="0 0 100 100" fill="none">
+        <path d="M7 50L93 0L93 100L7 50Z" fill="currentColor"/>
+    </symbol>
+</svg>

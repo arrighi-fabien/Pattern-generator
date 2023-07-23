@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+    <meta name="description" content="Website for pattern generation with multiple parameters modification.">
+    <title>Pattern Generator</title>
+</head>
+<body>
+    <div class="menu-btn neumorphism-btn neumorphism-in">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <main>
+        <div id="frame">
+            <div id="frame__container">
+
+            </div>
+        </div>
+    </main>
+    <div class="pattern-menu">
+        <h2 class="pattern-menu__title">Controls</h2>
+        <div class="pattern-modification">
+            <h3 class="pattern-modification__title">Pattern style</h3>
+            <div class="pattern-modification__group">
+                <label for="pattern-bg">Pattern background:</label>
+                <div class="pattern-modification__group__element color-selector">
+                    <div id="pattern-bg-display"></div>
+                    <input type="color" id="pattern-bg">
+                </div>
+            </div>
+            <div class="pattern-modification__group">
+                <label for="pattern-color">Pattern color:</label>
+                <div class="pattern-modification__group__element color-selector">
+                    <div id="pattern-color-display"></div>
+                    <input type="color" id="pattern-color">
+                </div>
+            </div>
+            <div class="pattern-modification__group">
+                <label for="pattern-size-width">Pattern size (width):</label>
+                <div class="pattern-modification__group__element">
+                    <span id="pattern-size-width-value"></span>
+                    <input type="range" id="pattern-size-width" min="1" max="20">
+                </div>
+            </div>
+            <div class="pattern-modification__group">
+                <label for="pattern-size-height">Pattern size (height):</label>
+                <div class="pattern-modification__group__element">
+                    <span id="pattern-size-height-value"></span>
+                    <input type="range" id="pattern-size-height" min="1" max="20">
+                </div>
+            </div>
+            <div class="pattern-modification__group">
+                <label for="pattern-symetry">Symetry (vertical):</label>
+                <div class="checkbox-input">
+                    <input type="checkbox" class="neumorphism-btn neumorphism-in" id="pattern-symetry">
+                    <svg>
+                        <use href="icon_sprite.svg#check"></use>
+                    </svg>
+                </div>
+            </div>
+            <h3 class="pattern-modification__title">Shapes frequency</h3>
+            <div id="pattern-elements-weight">
+
+            </div>
+            <div class="center-element">
+                <button id="pattern-regenerate" class="neumorphism-btn neumorphism-in">Regenerate</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
